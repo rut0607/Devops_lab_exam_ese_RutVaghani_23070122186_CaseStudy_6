@@ -3,4 +3,3 @@ logs/
 *.tfstate*
 .terraform.lock.hcl
 terraform/sentiment.env
-jenkins/Jenkinsfile
